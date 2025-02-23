@@ -1,25 +1,24 @@
-# Portfolio2
-# Mohammad Shaown
+# Mollah Adib Aktab
 
- Hi there! I'm Mohammad Shaown, An undergraduate student of Biomedical Engineering at Bangladesh University of Engineering and Technology, set to graduate in February 2025. Passionate about advancing healthcare solutions through expertise in biomedical instrumentation, IoT technology, and AI-driven innovations, I aim to contribute to impactful projects that enhance human health and well-being.
+ Hi there! Mollah Adib Aktab, An undergraduate student of Biomedical Engineering at Bangladesh University of Engineering and Technology, set to graduate in February 2025. Passionate about advancing healthcare solutions through expertise in biomedical instrumentation, IoT technology, and AI-driven innovations, I aim to contribute to impactful projects that enhance human health and well-being.
 
 ---
 
 ##  Skills and Expertise
 
-- **Programming Languages:** C, Python, JavaScript, SQL
-- **Frameworks & Tools:** React, Node.js, Express.js, MongoDB, MySQL, Docker, JavaFX
-- **Machine Learning & NLP:** PyTorch, scikit-learn, Transformers (BERT, GPT), Text Classification, Generative AI
-- **Simulation Tools:** Ansys, Comsol Multiphysics, TinkerCAD, Tina TI, Proteus
+- **Programming Languages:** C, Python
+- **Machine Learning & NLP:** PyTorch, scikit-learn, Pandas.
+- **Simulation Tools:** Ansys, FEBio, Comsol Multiphysics, TinkerCAD, Tina TI, Proteus
+- **Modeling Tools:** Solidworks, Space claim, 3-Matic, Mimics
 
 ---
 
 ##  Research Interests
 
-- Signal Processing and Embedded Systems
-- Image Processing and Generative AI
-- Transfer Learning and Deep Learning Models
-- Wearable Devices for Healthcare Applications
+- Finite Element Analysis
+- Computational Opthalmology
+- Computational Modeling and Biomechanics
+- Computational Fluid Dynamics
 
 ---
 
@@ -33,55 +32,32 @@
 
 ##  Notable Projects
 
-### **Hand Gesture Classification Using Surface EMG Signals**
-- Developed a machine learning-based system for classifying hand gestures using sEMG signals.
-- Tools: `pandas`, `scikit-learn`, `streamlit`
-- Enhanced human-computer interaction, with potential applications in prosthetics and rehabilitation.
+### **A Prosthesis Made in Bangladesh for Below Knee Amputees **
+The global health challenge that motivates the technology of a low-cost below knee prosthesis made from locally available materials is the lack of access to aﬀordable and appropriate prosthetic devices particularly in low-resource settings. The technology of a low-cost below knee prosthesis made from locally available materials fills the need for aﬀordable and accessible prosthetic care by leveraging readily available resources and simple manufacturing techniques. By utilizing locally sourced materials such as Nylon, and HDPE and employing basic fabrication methods that do not require sophisticated machinery or specialized skills, this technology significantly reduces the cost and complexity associated with producing prosthetic devices. Furthermore, the design and materials used in the prosthesis have undergone rigorous testing, including load tests, to ensure their safety, durability, and functionality. By making prosthetic care more aﬀordable and accessible, this technology has the potential to transform the lives of millions of amputees worldwide, enabling them to regain mobility, independence, and dignity.
 
-### **NeoSense: A Low-Cost Neonatal Apnea Detection System**
-- Designed a monitoring system using nasal airflow temperature and chest movement data.
-- Tools: `Arduino UNO`, `PCB Designing`
-- Aimed to provide a noninvasive solution for managing neonatal sleep apnea.
+### **Glaucoma Detection using image processing from Bangladesh Eye Hospital's Dataset**
+- Developed a machine learning-based system for classifying healthy eye and diseased eye
+- Tools: Vgg19, streamlit
+- A web app which can detect glaucoma from fundus image.
 
-### **Heart Sound Classification Using PCG Signals**
-- Developed a system to classify heart sounds into five categories using phonocardiogram signals.
+### **Perkinson Detection from voice signal**
+- Developed a system to detect perkinson from voice sample.
 - Tools: `MATLAB`
 - Analyzed S1/S2 positions and energy distribution for enhanced diagnostic accuracy.
 
----
-
-##  Publications
-
-- **NeoSense: A Low-Cost Monitoring System for Effective Neonatal Apnea Detection and Care**  
-  *Accepted at 1st International Conference on Core Engineering & Technology (IUT-ICCET 2024)*  
-  Co-authors: Samiha Jainab, Natalia Raj, Md. Shaown  
-
-- **Efficient Antihallucinogenic AI for Tropical Medicine: A Probabilistic Framework for Differential
-Diagnosis**  
-  *Accepted at AAAI 2025 Workshop on LLMs for Health*  
-  Co-authors: S. M. Sakeef Sani, Md. Shaown, Taufiq Hasan  
-
----
-
-##  Awards and Recognition
-
-- **WEWB Scholarship (2020)**  
-  Awarded by the Ministry of Expatriates’ Welfare for exceptional academic performance.  
-
----
 
 ##  Leadership Roles
 
-- **Vice President, BUET BMES Student Chapter (2024)**  
+- **Senior Executive, BUET BMES Student Chapter (2023)**  
 - **Vice President, BUET Animata (2024)**  
-- **Secretary, BUET Robotics Society (2023)**  
+- **Joint Secretary, BUET Photographic Society (2023)**  
 
 ---
 
 ##  Contact Me
 
-- **Email:** [shaownbuetbme@gmail.com](mailto:shaownbuetbme@gmail.com)  
-- **LinkedIn:** [mohammad-shaown](https://www.linkedin.com/in/mohammad-shaown-1b8125302/)  
+- **Email:** [adib.aktab999@gmail.com](mailto:adib.aktab999@gmail.com)  
+- **LinkedIn:** [adibaktab](www.linkedin.com/in/adib-aktab-718275284)  
 - **GitHub:** [ShaownBuetBme](https://github.com/ShaownBuetBme)  
 - **Location:** Dhaka, Bangladesh  
 
