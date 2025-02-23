@@ -32,7 +32,7 @@
 
 ##  Notable Projects
 
-### **A Prosthesis Made in Bangladesh for Below Knee Amputees **
+### A Prosthesis Made in Bangladesh for Below Knee Amputees 
 The global health challenge that motivates the technology of a low-cost below knee prosthesis made from locally available materials is the lack of access to aﬀordable and appropriate prosthetic devices particularly in low-resource settings. The technology of a low-cost below knee prosthesis made from locally available materials fills the need for aﬀordable and accessible prosthetic care by leveraging readily available resources and simple manufacturing techniques. By utilizing locally sourced materials such as Nylon, and HDPE and employing basic fabrication methods that do not require sophisticated machinery or specialized skills, this technology significantly reduces the cost and complexity associated with producing prosthetic devices. Furthermore, the design and materials used in the prosthesis have undergone rigorous testing, including load tests, to ensure their safety, durability, and functionality. By making prosthetic care more aﬀordable and accessible, this technology has the potential to transform the lives of millions of amputees worldwide, enabling them to regain mobility, independence, and dignity.
 
 ### **Glaucoma Detection using image processing from Bangladesh Eye Hospital's Dataset**
