@@ -1,6 +1,6 @@
 # Mollah Adib Aktab
 
- Hi there! Mollah Adib Aktab, An undergraduate student of Biomedical Engineering at Bangladesh University of Engineering and Technology, set to graduate in February 2025. Passionate about advancing healthcare solutions through expertise in biomedical instrumentation, IoT technology, and AI-driven innovations, I aim to contribute to impactful projects that enhance human health and well-being.
+ I am currently pursuing a BSc in Biomedical Engineering at BUET and conducting research under the BioInnovation Research Group in Computational Ophthalmology. My work spans Machine Learning, biomechanics simulations, and modeling to drive advancements in healthcare. Beyond academia, I am a passionate street photographer, capturing melancholic moments that reflect the essence of urban life. Committed to innovation and societal impact, I strive to contribute meaningfully to both science and art.
 
 ---
 
