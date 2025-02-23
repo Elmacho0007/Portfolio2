@@ -58,7 +58,7 @@ The global health challenge that motivates the technology of a low-cost below kn
 
 - **Email:** [adib.aktab999@gmail.com](mailto:adib.aktab999@gmail.com)  
 - **LinkedIn:** [adibaktab](www.linkedin.com/in/adib-aktab-718275284)  
-- **GitHub:** [Elmacho0007](https://github.com/Elmacho0007))  
+- **GitHub:** [Elmacho0007](https://github.com/Elmacho0007. 
 - **Location:** Dhaka, Bangladesh  
 
 Let's connect and build something impactful together!
